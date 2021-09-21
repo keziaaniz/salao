@@ -1,0 +1,66 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?njyxrq');
+  src:  url('fonts/icomoon.eot?njyxrq#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?njyxrq') format('truetype'),
+    url('fonts/icomoon.woff?njyxrq') format('woff'),
+    url('fonts/icomoon.svg?njyxrq#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-menu_th_icon:before {
+  content: "\e905";
+}
+.icon-close_delete_remove_icon:before {
+  content: "\e908";
+}
+.icon-camera_instagram_instagram-logo_icon:before {
+  content: "\e909";
+}
+.icon-location_icon:before {
+  content: "\e90d";
+}
+.icon-telegram_icon:before {
+  content: "\e90f";
+}
+.icon-whatsapp_logo_chat_message_bubble_icon:before {
+  content: "\e911";
+}
+.icon-contact_email_icon:before {
+  content: "\e913";
+}
+.icon-health_treatment_illustration_hair_beauty_icon:before {
+  content: "\e92d";
+}
+.icon-barber_dog_groomer_grooming_hair_icon:before {
+  content: "\e92e";
+}
+.icon-anatomy_dermis_epidermis_hair_organ_icon:before {
+  content: "\e92f";
+}
+.icon-phone_telephone_cell_call_communication_icon:before {
+  content: "\e936";
+}
+.icon-appliances_cell-phone_cellphone_mobile_mobilephone_icon:before {
+  content: "\e937";
+}
+.icon-salon_scissors_icon:before {
+  content: "\e938";
+}
